@@ -1,5 +1,4 @@
 import math
-print("Nome:Felipe Leao.\nDisciplina:Fisica I.\nCurso:Ciencia da Computacao.\nTurma:3 Periodo.\n")
 print("\n")
 print("----Lancamento de Projetil----\n")
 print("\n")
